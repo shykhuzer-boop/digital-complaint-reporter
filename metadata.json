@@ -1,0 +1,9 @@
+
+{
+  "name": "Digital Civic Complaint Reporter",
+  "description": "A comprehensive civic utility app for citizens to report, track, and manage local infrastructure issues like broken roads, water leakage, and waste management with AI-assisted categorization.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
